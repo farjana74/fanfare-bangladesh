@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.section-bg {
+  background-color: #202020;
+}
+.section-title {
+  color: #f2f2f2;
+  font-size: 34px;
+  font-weight: 700;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+.branch-title {
+  color: #f2f2f2;
+  font-size: 28px;
+  font-weight: 700;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+.branch-address {
+  color: #a9b7c5;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+.branch-number {
+  color: #a9b7c5;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+.feedback-mail {
+  color: #fea501;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  list-style-type: none;
+}
+.address-icon {
+  color: #fea501;
+  font-size: 19px;
+}
