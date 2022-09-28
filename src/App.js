@@ -20,22 +20,6 @@ function App() {
 <Route path="/privacypolicy" element={<PrivacyPolicyMain/>} />
 <Route path="/termofuse" element={<TermOfUseMain />} />
 
-      
-
-
-
-
-
-
-
-
-
-
-      
-       
-
-
-
       </Routes>
 
 

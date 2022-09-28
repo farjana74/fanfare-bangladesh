@@ -1,6 +1,6 @@
 import React from 'react';
 
-import TermOfFooter from '../Shared/TermOfFooter/TermOfFooter';
+import Footer from '../Shared/Footer';
 import TermNav from '../TermNav/TermNav';
 // import NavBar from '../Shared/NavBar/N?avBar';
 import TermOfUse from './TermOfUse';
@@ -10,7 +10,7 @@ const TermOfUseMain = () => {
         <div>
             <TermNav />
             <TermOfUse />
-            <TermOfFooter />
+            <Footer />
         </div>
     );
 };
