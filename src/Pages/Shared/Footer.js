@@ -40,8 +40,8 @@ const Footer = () => {
         <h1 className='footer-title pb-3'>Others</h1></div>
         <div>
         <ul className='type'>
-            <li><Link to="privacypolicy">Privacy Policy</Link></li>
-            <li><Link to="termofuse">Terms of Use</Link></li>
+            <li><Link to="/privacypolicy">Privacy Policy</Link></li>
+            <li><Link to="/termofuse">Terms of Use</Link></li>
             
            
         </ul>

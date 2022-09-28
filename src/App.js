@@ -17,8 +17,8 @@ function App() {
 <Routes>
 <Route path="/" element={<ContactMain />} />
 
-<Route path="/privacypolicy" element={<PrivacyPolicyMain/>} />
-<Route path="/termofuse" element={<TermOfUseMain />} />
+<Route path="privacypolicy" element={<PrivacyPolicyMain/>} />
+<Route path="termofuse" element={<TermOfUseMain />} />
 
       </Routes>
 
