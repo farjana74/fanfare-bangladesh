@@ -5,7 +5,7 @@ import {
   Routes,
 } from 'react-router';
 
-import ContactMain from './Pages/ContactMain/ContactMain';
+// import ContactMain from './Pages/ContactMain/ContactMain';
 import PrivacyPolicyMain from './Pages/PrivacyPolicy/PrivacyPolicyMain';
 import TermOfUseMain from './Pages/TermOfUse/TermOfUseMain';
 
@@ -15,7 +15,7 @@ function App() {
 
 
 <Routes>
-<Route path="/" element={<ContactMain />} />
+{/* <Route path="/" element={<ContactMain />} /> */}
 
 <Route path="privacypolicy" element={<PrivacyPolicyMain/>} />
 <Route path="termofuse" element={<TermOfUseMain />} />
